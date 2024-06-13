@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard renders dashboard 1`] = `
+<h1
+  data-testid="heading"
+>
+  Home
+</h1>
+`;
